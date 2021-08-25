@@ -1,0 +1,161 @@
+Sorting...
+Full Text Search...
+default-jdk/kali-rolling 2:1.11-72 amd64
+  Standard Java or Java compatible Development Kit
+
+default-jdk-doc/kali-rolling 2:1.11-72 amd64
+  Standard Java or Java compatible Development Kit (documentation)
+
+default-jdk-headless/kali-rolling 2:1.11-72 amd64
+  Standard Java or Java compatible Development Kit (headless)
+
+default-jre/kali-rolling,now 2:1.11-72 amd64 [installed,automatic]
+  Standard Java or Java compatible Runtime
+
+default-jre-headless/kali-rolling,now 2:1.11-72 amd64 [installed,automatic]
+  Standard Java or Java compatible Runtime (headless)
+
+java-package/kali-rolling 0.62 all
+  Utility for creating Java Debian packages
+
+jtreg/kali-rolling 5.1-b01-2 all
+  Regression Test Harness for the OpenJDK platform
+
+libhsdis0-fcml/kali-rolling 1.2.2-2 amd64
+  HotSpot disassembler plugin using FCML
+
+libjax-maven-plugin/kali-rolling 0.1.8+dfsg-1 all
+  Using the xjc goal with OpenJDK 11+
+
+libreoffice/kali-rolling 1:7.0.3-4 amd64
+  office productivity suite (metapackage)
+
+nvidia-openjdk-8-jre/kali-rolling 9.+8u252-b09-1~deb9u1~11.1.1-2 amd64
+  Obsolete OpenJDK Java runtime, for NVIDIA applications
+
+openjdk-11-dbg/kali-rolling 11.0.9.1+1-1 amd64
+  Java runtime based on OpenJDK (debugging symbols)
+
+openjdk-11-demo/kali-rolling 11.0.9.1+1-1 amd64
+  Java runtime based on OpenJDK (demos and examples)
+
+openjdk-11-doc/kali-rolling 11.0.9.1+1-1 all
+  OpenJDK Development Kit (JDK) documentation
+
+openjdk-11-jdk/kali-rolling 11.0.9.1+1-1 amd64
+  OpenJDK Development Kit (JDK)
+
+openjdk-11-jdk-headless/kali-rolling 11.0.9.1+1-1 amd64
+  OpenJDK Development Kit (JDK) (headless)
+
+openjdk-11-jre/kali-rolling,now 11.0.9.1+1-1 amd64 [installed,automatic]
+  OpenJDK Java runtime, using Hotspot JIT
+
+openjdk-11-jre-dcevm/kali-rolling 11.0.9+1-1 amd64
+  Alternative VM for OpenJDK 11 with enhanced class redefinition
+
+openjdk-11-jre-headless/kali-rolling,now 11.0.9.1+1-1 amd64 [installed,automatic]
+  OpenJDK Java runtime, using Hotspot JIT (headless)
+
+openjdk-11-jre-zero/kali-rolling 11.0.9.1+1-1 amd64
+  Alternative JVM for OpenJDK, using Zero
+
+openjdk-11-source/kali-rolling 11.0.9.1+1-1 all
+  OpenJDK Development Kit (JDK) source files
+
+openjdk-13-dbg/kali-rolling 13.0.5+3-2 amd64
+  Java runtime based on OpenJDK (debugging symbols)
+
+openjdk-13-demo/kali-rolling 13.0.5+3-2 amd64
+  Java runtime based on OpenJDK (demos and examples)
+
+openjdk-13-doc/kali-rolling 13.0.5+3-2 all
+  OpenJDK Development Kit (JDK) documentation
+
+openjdk-13-jdk/kali-rolling 13.0.5+3-2 amd64
+  OpenJDK Development Kit (JDK)
+
+openjdk-13-jdk-headless/kali-rolling 13.0.5+3-2 amd64
+  OpenJDK Development Kit (JDK) (headless)
+
+openjdk-13-jre/kali-rolling 13.0.5+3-2 amd64
+  OpenJDK Java runtime, using Hotspot JIT
+
+openjdk-13-jre-headless/kali-rolling 13.0.5+3-2 amd64
+  OpenJDK Java runtime, using Hotspot JIT (headless)
+
+openjdk-13-jre-zero/kali-rolling 13.0.5+3-2 amd64
+  Alternative JVM for OpenJDK, using Zero
+
+openjdk-13-source/kali-rolling 13.0.5+3-2 all
+  OpenJDK Development Kit (JDK) source files
+
+openjdk-14-dbg/kali-rolling 14.0.2+12-1.1 amd64
+  Java runtime based on OpenJDK (debugging symbols)
+
+openjdk-14-demo/kali-rolling 14.0.2+12-1.1 amd64
+  Java runtime based on OpenJDK (demos and examples)
+
+openjdk-14-doc/kali-rolling 14.0.2+12-1.1 all
+  OpenJDK Development Kit (JDK) documentation
+
+openjdk-14-jdk/kali-rolling 14.0.2+12-1.1 amd64
+  OpenJDK Development Kit (JDK)
+
+openjdk-14-jdk-headless/kali-rolling 14.0.2+12-1.1 amd64
+  OpenJDK Development Kit (JDK) (headless)
+
+openjdk-14-jre/kali-rolling 14.0.2+12-1.1 amd64
+  OpenJDK Java runtime, using Hotspot JIT
+
+openjdk-14-jre-headless/kali-rolling 14.0.2+12-1.1 amd64
+  OpenJDK Java runtime, using Hotspot JIT (headless)
+
+openjdk-14-jre-zero/kali-rolling 14.0.2+12-1.1 amd64
+  Alternative JVM for OpenJDK, using Zero
+
+openjdk-14-source/kali-rolling 14.0.2+12-1.1 all
+  OpenJDK Development Kit (JDK) source files
+
+openjdk-15-dbg/kali-rolling 15.0.1+9-3 amd64
+  Java runtime based on OpenJDK (debugging symbols)
+
+openjdk-15-demo/kali-rolling 15.0.1+9-3 amd64
+  Java runtime based on OpenJDK (demos and examples)
+
+openjdk-15-doc/kali-rolling 15.0.1+9-3 all
+  OpenJDK Development Kit (JDK) documentation
+
+openjdk-15-jdk/kali-rolling 15.0.1+9-3 amd64
+  OpenJDK Development Kit (JDK)
+
+openjdk-15-jdk-headless/kali-rolling 15.0.1+9-3 amd64
+  OpenJDK Development Kit (JDK) (headless)
+
+openjdk-15-jre/kali-rolling 15.0.1+9-3 amd64
+  OpenJDK Java runtime, using Hotspot JIT
+
+openjdk-15-jre-headless/kali-rolling 15.0.1+9-3 amd64
+  OpenJDK Java runtime, using Hotspot JIT (headless)
+
+openjdk-15-jre-zero/kali-rolling 15.0.1+9-3 amd64
+  Alternative JVM for OpenJDK, using Zero
+
+openjdk-15-source/kali-rolling 15.0.1+9-3 all
+  OpenJDK Development Kit (JDK) source files
+
+uwsgi-app-integration-plugins/kali-rolling 2.0.19.1-3+b1 amd64
+  plugins for integration of uWSGI and application
+
+uwsgi-plugin-jvm-openjdk-11/kali-rolling 2.0.19.1-3+b1 amd64
+  Java plugin for uWSGI (OpenJDK 11)
+
+uwsgi-plugin-jwsgi-openjdk-11/kali-rolling 2.0.19.1-3+b1 amd64
+  JWSGI plugin for uWSGI (OpenJDK 11)
+
+uwsgi-plugin-ring-openjdk-11/kali-rolling 2.0.19.1-3+b1 amd64
+  Closure/Ring plugin for uWSGI (OpenJDK 11)
+
+uwsgi-plugin-servlet-openjdk-11/kali-rolling 2.0.19.1-3+b1 amd64
+  JWSGI plugin for uWSGI (OpenJDK 11)
+

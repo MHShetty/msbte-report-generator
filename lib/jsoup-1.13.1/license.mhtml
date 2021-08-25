@@ -1,0 +1,285 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://jsoup.org/license
+Subject: jsoup License
+Date: Fri, 6 Nov 2020 07:13:06 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--7ip9PyA4xP0jbWITp2jErFHLDKmntbBTzi2MtoxqA1----"
+
+
+------MultipartBoundary--7ip9PyA4xP0jbWITp2jErFHLDKmntbBTzi2MtoxqA1----
+Content-Type: text/html
+Content-ID: <frame-B18F6EB3A94B542D7BB25A8A0AC40AD9@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://jsoup.org/license
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3Dwindows-1252">=20
+  <title>jsoup License</title>=20
+  <meta name=3D"keywords" content=3D"jsoup license, open source, mit">=20
+  <meta name=3D"description" content=3D"jsoup is licensed under the MIT ope=
+n source license">=20
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1">=20
+  <link type=3D"text/css" rel=3D"stylesheet" href=3D"https://jsoup.org/rez/=
+style.css">=20
+  <meta name=3D"twitter:card" content=3D"summary">=20
+  <meta name=3D"twitter:site" content=3D"@jhy">=20
+  <meta name=3D"twitter:title" content=3D"jsoup License">=20
+  <meta name=3D"twitter:description" content=3D"jsoup is licensed under the=
+ MIT open source license">=20
+  <meta name=3D"twitter:image" content=3D"https://jsoup.org/rez/jsoup%20log=
+o%20twitter.png">=20
+ </head>=20
+ <body class=3D"n1-">=20
+  <div class=3D"wrap">=20
+   <div class=3D"header">=20
+    <div class=3D"nav-sections">=20
+     <ul>=20
+      <li class=3D"n1-home"><h4><a href=3D"https://jsoup.org/">jsoup</a></h=
+4></li>=20
+      <li class=3D"n1-news"><a href=3D"https://jsoup.org/news/">News</a></l=
+i>=20
+      <li class=3D"n1-bugs"><a href=3D"https://jsoup.org/bugs">Bugs</a></li=
+>=20
+      <li class=3D"n1-discussion"><a href=3D"https://jsoup.org/discussion">=
+Discussion</a></li>=20
+      <li class=3D"n1-download"><a href=3D"https://jsoup.org/download">Down=
+load</a></li>=20
+      <li class=3D"n1-api"><a href=3D"https://jsoup.org/apidocs/">API Refer=
+ence</a></li>=20
+      <li class=3D"n1-cookbook"><a href=3D"https://jsoup.org/cookbook/">Coo=
+kbook</a></li>=20
+      <li class=3D"n1-try"><a href=3D"https://try.jsoup.org/">Try jsoup</a>=
+</li>=20
+     </ul>=20
+    </div>=20
+   </div>=20
+   <div class=3D"breadcrumb" itemscope=3D"" itemtype=3D"http://schema.org/B=
+readcrumbList"> <span itemprop=3D"itemListElement" itemscope=3D"" itemtype=
+=3D"http://schema.org/ListItem"><a href=3D"https://jsoup.org/" itemscope=3D=
+"" itemtype=3D"http://schema.org/Thing" itemprop=3D"item"><span itemprop=3D=
+"name">jsoup</span></a> </span> <span class=3D"seperator">=BB</span> jsoup =
+License=20
+   </div>=20
+   <div class=3D"content">=20
+    <div class=3D"col1">=20
+     <h1>jsoup License</h1>=20
+     <p>The jsoup code-base (including source and compiled packages) are di=
+stributed under the open source MIT license as described below.</p>=20
+     <h3>The MIT License</h3>=20
+     <p>Copyright &#65533; 2009 - 2020 <a href=3D"https://jhy.io/">Jonathan=
+ Hedley</a> (<a href=3D"https://jsoup.org/">https://jsoup.org/</a>)</p>=20
+     <p>Permission is hereby granted, free of charge, to any person obtaini=
+ng a copy of this software and associated documentation files (the "Softwar=
+e"), to deal in the Software without restriction, including without limitat=
+ion the rights to use, copy, modify, merge, publish, distribute, sublicense=
+, and/or sell copies of the Software, and to permit persons to whom the Sof=
+tware is furnished to do so, subject to the following conditions:</p>=20
+     <p>The above copyright notice and this permission notice shall be incl=
+uded in all copies or substantial portions of the Software.</p>=20
+     <p>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXP=
+RESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABI=
+LITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHA=
+LL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTH=
+ER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING =
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALING=
+S IN THE SOFTWARE.</p>=20
+    </div>
+    <!-- /col1 -->=20
+    <div class=3D"col2">=20
+    </div>
+    <!-- /col2 -->=20
+   </div>
+   <!-- /content-->=20
+   <div class=3D"footer"> <b>jsoup HTML parser</b> =A9 2009 - 2020 <a href=
+=3D"https://jhy.io/" rel=3D"author"><b>Jonathan Hedley</b></a>=20
+   </div>=20
+  </div>
+  <!-- /wrap -->=20
+ =20
+  =20
+  =20
+ =20
+=20
+</body></html>
+------MultipartBoundary--7ip9PyA4xP0jbWITp2jErFHLDKmntbBTzi2MtoxqA1----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://jsoup.org/rez/style.css
+
+@charset "windows-1252";
+
+html { color: rgb(0, 0, 0); background: rgb(255, 255, 255); }
+
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form,=
+ fieldset, legend, input, button, textarea, p, blockquote, th, td { margin:=
+ 0px; padding: 0px; }
+
+table { border-collapse: collapse; border-spacing: 0px; }
+
+fieldset, img { border: 0px; }
+
+address, caption, cite, code, dfn, em, strong, th, var, optgroup { font-sty=
+le: inherit; font-weight: inherit; }
+
+del, ins { text-decoration: none; }
+
+li { list-style: none; }
+
+caption, th { text-align: left; }
+
+h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: normal; }
+
+q::before, q::after { content: ""; }
+
+abbr, acronym { border: 0px; font-variant: normal; }
+
+sup { vertical-align: baseline; }
+
+sub { vertical-align: baseline; }
+
+legend { color: rgb(0, 0, 0); }
+
+input, button, textarea, select, optgroup, option { font-family: inherit; f=
+ont-size: inherit; font-style: inherit; font-weight: inherit; }
+
+input, button, textarea, select { }
+
+body { font: 13px / 1.231 "helvetica neue", arial, clean, sans-serif; }
+
+select, input, button, textarea, button { font: 99% arial, helvetica, clean=
+, sans-serif; }
+
+table { font-size: inherit; }
+
+pre, code, kbd, samp, tt { font-family: monospace; font-size: 108%; line-he=
+ight: 100%; }
+
+body { font-size: 100%; text-align: center; color: rgb(25, 41, 67); }
+
+.content ol > li { list-style-type: decimal; margin-left: 28px; margin-bott=
+om: 8px; }
+
+.content ul > li { list-style-type: disc; margin-left: 28px; margin-bottom:=
+ 8px; }
+
+.content a { text-decoration: none; color: rgb(143, 14, 15); }
+
+.content a:hover { text-decoration: underline; }
+
+.content a:visited { color: rgb(125, 14, 113); }
+
+h1 { font-size: 180%; margin-top: 10px; margin-bottom: 12px; }
+
+h2 { font-size: 155%; margin-top: 26px; margin-bottom: 8px; }
+
+h3 { font-size: 120%; margin-top: 15px; margin-bottom: 5px; }
+
+div.wrap { margin-left: auto; margin-right: auto; width: 900px; text-align:=
+ left; }
+
+.header { margin-top: 10px; }
+
+.header h4 a { font-size: 180%; line-height: 12px; display: block; margin-r=
+ight: 15px; }
+
+.header { background-color: rgb(55, 82, 127); border-radius: 4px; height: 3=
+5px; padding-left: 10px; }
+
+.header .nav-sections > ul > li { float: left; }
+
+.header .nav-sections > ul > li + li { border-left: 1px solid rgb(77, 112, =
+171); }
+
+.header .nav-sections li a { color: rgb(255, 255, 255); text-decoration: no=
+ne; padding: 10px 5px 5px; display: block; height: 20px; }
+
+body.n1-home .n1-home a, body.n1-news .n1-news, body.n1-bugs .n1-bugs, body=
+.n1-discussion .n1-discussion, body.n1-download .n1-download, body.n1-api .=
+n1-api, body.n1-cookbook .n1-cookbook, body.n1-try .n1-try { background-col=
+or: rgb(65, 97, 150); }
+
+.header .nav-sections a:hover { color: rgb(255, 255, 255); text-decoration:=
+ none; background-color: rgb(71, 106, 162); }
+
+.breadcrumb { margin-left: 10px; margin-right: 10px; padding: 5px; backgrou=
+nd-color: rgb(241, 240, 242); color: rgb(128, 128, 128); border-bottom-left=
+-radius: 4px; border-bottom-right-radius: 4px; font-size: 85%; }
+
+.breadcrumb a { color: rgb(128, 128, 128); }
+
+.breadcrumb .seperator { margin-left: 2px; margin-right: 2px; }
+
+.footer { clear: both; margin-left: 10px; margin-right: 10px; margin-top: 6=
+0px; padding: 5px; background-color: rgb(241, 240, 242); color: rgb(128, 12=
+8, 128); border-top-left-radius: 4px; border-top-right-radius: 4px; font-si=
+ze: 75%; }
+
+.footer a { color: rgb(96, 96, 96); }
+
+.content { clear: both; margin-left: 10px; }
+
+.content .col1 { width: 600px; float: left; margin-bottom: 60px; line-heigh=
+t: 135%; }
+
+.content .col2 { float: left; margin-left: 15px; width: 265px; }
+
+p { }
+
+.content p { margin-bottom: 14px; }
+
+.content pre { font-family: Consolas, monospace; background-color: rgb(231,=
+ 235, 242); padding: 10px; margin-bottom: 10px; overflow: auto; border-radi=
+us: 5px; line-height: 140%; }
+
+.content p code, .content li code, .content pre code { font-size: 15px; fon=
+t-family: Consolas, monospace; background-color: rgb(231, 235, 242); paddin=
+g: 0px 2px; margin-left: -1px; margin-right: -1px; border-radius: 4px; }
+
+.content p code a { text-decoration: none; }
+
+.box { background-color: rgb(241, 240, 242); border: 1px solid rgb(231, 231=
+, 231); border-radius: 4px; padding: 5px; margin-top: 10px; }
+
+.box h2 { margin-top: 0px; }
+
+.col2 { font-size: 90%; }
+
+.badge { background: url("2badges_c.png"); display: block; float: right; }
+
+.badge-html5 { background-position: 0px 0px; width: 64px; height: 64px; mar=
+gin-right: 9px; }
+
+.badge-os { background-position: 0px -74px; width: 80px; height: 80px; }
+
+.str { color: rgb(115, 126, 115); }
+
+.com { color: rgb(79, 96, 130); }
+
+.typ { font-weight: bold; }
+
+.lit { color: rgb(0, 102, 102); }
+
+.pun { color: rgb(102, 102, 0); }
+
+.tag { color: rgb(0, 0, 136); }
+
+.atn { color: rgb(102, 0, 102); }
+
+.atv { color: rgb(0, 136, 0); }
+
+.dec { color: rgb(102, 0, 102); }
+
+@media (max-width: 910px) {
+  h1 { line-height: 130%; }
+  .header { overflow: auto; height: auto; margin-left: 10px; margin-right: =
+10px; }
+  div.wrap { width: 100%; }
+  .content .col1 { width: 95%; }
+  .breadcrumb { clear: both; margin-left: 20px; margin-right: 20px; }
+  .header .nav-sections > ul > li + li { border-left: 0px; }
+  .content .col2 { margin-bottom: 10px; }
+}
+------MultipartBoundary--7ip9PyA4xP0jbWITp2jErFHLDKmntbBTzi2MtoxqA1------
