@@ -71,15 +71,15 @@ public class Marksheet
 
 	// If the above operation has discovered the file we were looking for
         if (cacheFiles!=null && cacheFiles.length != 0) {
-
 	    // Parse the contents of that file (the first file) into a Document object, that could be used to logically access the raw data/html file
-	    String fileContents = String.join("\n", Files.readAllLines(Paths.get(cacheFiles[0].getPath()), StandardCharsets.UTF_8));
+	    String fileContents = new String(Files.readAllBytes(cacheFiles[0].toPath()));
             document = Jsoup.parse(fileContents);
         }
 
         // Else retrieve the raw data of the marksheet over the network and cache it for future (re)use
         else
 	{
+            System.out.println(uid);
 	    // Declare a common variable to store the link
             String link = "";
 

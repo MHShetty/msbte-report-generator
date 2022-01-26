@@ -401,8 +401,9 @@ public class Report
 	      }
 	      catch(Exception e)
 	      {
+                System.out.println("Unhandled error while generating " + UID + "..." + e);
 		// Add the current UID to the list of invalidUIDs if the creation for the current marksheet fails for any reason
-		rgo.onInvalidUID(UID,e);
+		rgo.onInvalidUID(UID, e);
 	  	continue forUIDs;
 	      }
 
