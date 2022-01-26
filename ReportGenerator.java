@@ -134,7 +134,7 @@ public class ReportGenerator extends JFrame implements ActionListener
     label.setFont(new Font("Open Sans", Font.BOLD, 12));
     panel.add(box(label));
 
-    sampleLinkField = new JTextField("https://msbte.org.in/CRSLDNOV2020DISRESLIVE/2FRSRESFLS20LIVE/EnrollmentNumber/17/1705220125Marksheet.html");
+    sampleLinkField = new JTextField("https://msbte.org.in/DISRESLIVE2021CRSLDSEP/COV6139QS21LIVEResult/EnrollmentNumber/18/1805220458Marksheet.html");
     sampleLinkField.addKeyListener(new KeyAdapter() {
     public void keyReleased(KeyEvent e) {
         try
